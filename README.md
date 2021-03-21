@@ -1,7 +1,7 @@
 # Open FaaS Router and RSocket Streamer
 
-Kafka based OpenFaas function router, which routes the messages to a function, declaratively. It also provides ability to
-stream the messages via RSocket. It also supports client side telemetry. This framework is powered by GraalVM and
+Kafka based OpenFaas function router, which routes the messages to a function, declaratively. It also provides ability
+to stream the messages via RSocket. It also supports client side telemetry. This framework is powered by GraalVM and
 deployable on k8s. The framework completely cloud agnostic and native. Function support is language agnostic.
 
 The router has ability to listen to wild card based topic name and dispatch messages stream to function. FaaS provides
@@ -23,9 +23,11 @@ configurable, currently kafka used. It will also support standard enterprise int
 The framework will also provide consumable streams to framework like Kafka, Spark structure streams, flink etc. Since
 speed is the key, framework has chosen reactive programing model in combination of RSocket protocol.
 
-**_Is it yet another framework?_** The framework is developer "advocate" and does not have opinionation on the choice in which
-logic is build, however, optioned about programing model and transport protocol. Just code ....
+**_Is it yet another framework?_** The framework is developer "advocate" and does not have opinionation on the choice in
+which logic is build, however, optioned about programing model and transport protocol. Just code ....
 
+**_Why not aws lambda or other cloud function?_** The goal of the framework is cloud native and agnostic with the
+**_principle_** _code any there and deploy anywhere._
 
 # Tech stack
 
