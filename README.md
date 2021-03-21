@@ -36,8 +36,8 @@ container pooling make sure functions are always accessible. This functions will
 **_Router Scalability_** Router is build using GraalVM and configurable topic listening capabilities using wild card
 pattern. This provides scalability with spped.
 
-Rome was not built in a day, it work in progress, however in true spirit of open source, shares, vital research as and
-when it's accomplished.
+_**Rome was not built in a day, it work in progress, however in true spirit of open source, shares, vital research as and
+when it's accomplished.**_
 
 ![Router](./RSockerKafkaRouter.png)
 
