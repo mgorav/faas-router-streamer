@@ -36,7 +36,7 @@ pooling make sure functions are always accessible. This functions will provide h
 Rome was not built in a day, it work in progress, however in true spirit of open source, shares, vital research as and
 when it's accomplished.
 
-![Router](./Router.png)
+![Router](./RSockerKafkaRouter.png)
 
 # Tech stack
 
