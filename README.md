@@ -55,4 +55,5 @@ when it's accomplished.
 - Kubernetes
 - Jkube
 - RSocket
+- Hazelcast Jet (stream progressing)
 
