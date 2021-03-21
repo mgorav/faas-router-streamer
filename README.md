@@ -30,8 +30,8 @@ protocol of choice is RSocket.
 The framework will also provide consumable streams to framework like Kafka, Spark structure streams, flink etc. Since
 speed is the key, framework has chosen reactive programing model in combination of RSocket protocol.
 
-**_Is it yet another framework?_** The framework is developer "advocate" and does not have opinionation on the choice in
-which logic is build, however, optioned about programing model and transport protocol. Just code ....
+**_Is this yet another framework?_** The framework is developer "advocate" and does not have opinionation on the choice
+in which logic is build, however, optioned about programing model and transport protocol. Just code ....
 
 **_Why not aws lambda or other cloud function?_** The goal of the framework is cloud native and agnostic with the
 **_principle_** _code any there and deploy anywhere._
