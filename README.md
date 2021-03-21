@@ -33,4 +33,5 @@ configurable, currently kafka used. It will also support standard enterprise int
 - Kafka
 - Kubernetes
 - Jkube
+- RSocket
 
