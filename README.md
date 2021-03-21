@@ -23,6 +23,10 @@ configurable, currently kafka used. It will also support standard enterprise int
 The framework will also provide consumable streams to framework like Kafka, Spark structure streams, flink etc. Since
 speed is the key, framework has chosen reactive programing model in combination of RSocket protocol.
 
+**_Is it yet another framework?_** The framework is developer "advocate" and does not have opinionation on the choice in which
+logic is build, however, optioned about programing model and transport protocol. Just code ....
+
+
 # Tech stack
 
 - Java 11
