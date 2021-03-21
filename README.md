@@ -4,7 +4,7 @@ Kafka based OpenFaas function router, which routes the messages to a function, d
 stream the messages via RSocket. It also supports client side telemetry. This framework is powered by GraalVM and
 deployable on k8s. The framework completely cloud agnostic and native. Function support is language agnostic.
 
-The router has ability to listen to wild card based topic name and dispatch messages to function.
+The router has ability to listen to wild card based topic name and dispatch messages strean to function.
 
 # Tech stack
 
