@@ -1,0 +1,11 @@
+version: 1.0
+provider:
+  name: openfaas
+  gateway: http://127.0.0.1:8080
+functions:
+  s3-fun:
+    lang: python3
+    handler: ./s3-sink
+    image: mgorav/s3-sink:latest
+    annotations:
+      topic: master-channel
