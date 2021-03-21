@@ -8,6 +8,9 @@ The router has ability to listen to wild card based topic name and dispatch mess
 on demand the scalable platform with "zero" line of infrastructure as code. Also the container on which functions runs,
 support varieties of configurable environments, ranging from python to java to nodejs and more.
 
+The goal of this framework to provide relief from batch oriented framework without compromising of the volume of data it
+one can process.
+
 # Tech stack
 
 - Java 11
