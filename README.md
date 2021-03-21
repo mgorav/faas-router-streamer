@@ -17,6 +17,12 @@ fundamental block of this framework are:
 - Processor
 - Sink
 
+It's worth noting, a function is capable of performing:
+
+- source handling
+- data processing
+- sink handling
+
 Its worth mentioning, the framework is inspired from **_"Pipeline architecture"_**. The message transport layer is
 configurable, currently kafka used. It will also support standard enterprise integration patterns. The streaming
 protocol of choice is RSocket.
