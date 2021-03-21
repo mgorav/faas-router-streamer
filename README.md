@@ -5,7 +5,7 @@ stream the messages via RSocket. It also supports client side telemetry. This fr
 deployable on k8s. The framework completely cloud agnostic and native. Function support is language agnostic.
 
 The router has ability to listen to wild card based topic name and dispatch messages stream to function. FaaS provides
-on demand the scalable platform with "zero" line of infrastructure as code. Also the container on which functions runs,
+on demand the scalable platform with "zero" line of infrastructure as code. Also, the container on which functions runs,
 support varieties of configurable environments, ranging from python to java to nodejs and more.
 
 The goal of this framework is to provide relief from a batch oriented framework without compromising on the volume of
