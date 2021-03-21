@@ -29,7 +29,7 @@ which logic is build, however, optioned about programing model and transport pro
 **_Why not aws lambda or other cloud function?_** The goal of the framework is cloud native and agnostic with the
 **_principle_** _code any there and deploy anywhere._
 
-Rome was not built in a day, it wok in progress, however in true spirit of open source, shares, vital researh as and
+Rome was not built in a day, it wok in progress, however in true spirit of open source, shares, vital research as and
 when it's accomplished.
 
 # Tech stack
