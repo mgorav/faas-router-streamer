@@ -20,6 +20,9 @@ fundamental block of this framework are:
 It worth mentioning, the framework is inspired from "Pipeline architecture". The message transport layer is
 configurable, currently kafka used. It will also support standard enterprise integration patterns.
 
+The framework will also provide consumable streams to framework like Kafka, Spark structure streams, flink etc. Since
+speed is the key, framework has chosen reactive programing model in combination of RSocket protocol.
+
 # Tech stack
 
 - Java 11
