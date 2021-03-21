@@ -34,10 +34,13 @@ _**Cold vs Hot start of function & router**_ GraalVM provides sub millisecond sp
 container pooling make sure functions are always accessible. This functions will provide hot start.
 
 **_Router Scalability_** Router is build using GraalVM and configurable topic listening capabilities using wild card
-pattern. This provides scalability with spped.
+pattern. This provides scalability with speed.
 
-_**Rome was not built in a day, it work in progress, however in true spirit of open source, shares, vital research as and
-when it's accomplished.**_
+**_Kubernetes data platform_** The project provides k8s based data platform also, with key stress/choices based on
+principle cloud agnostic and native.
+
+_**Rome was not built in a day, it work in progress, however in true spirit of open source, shares, vital research as
+and when it's accomplished.**_
 
 ![Router](./RSockerKafkaRouter.png)
 
