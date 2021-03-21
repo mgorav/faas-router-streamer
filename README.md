@@ -9,7 +9,7 @@ on demand the scalable platform with "zero" line of infrastructure as code. Also
 support varieties of configurable environments, ranging from python to java to nodejs and more.
 
 The goal of this framework is to provide relief from a batch oriented framework without compromising on the volume of
-data one can process. It will enable end user to think "function" nas building block for processing. This framework will
+data one can process. It will enable end user to think "function" as building block for processing. This framework will
 be great help for micro-service orchestration or data (service) orchestration. It uses optioned programing model. Three
 fundamental block of this framework are:
 
