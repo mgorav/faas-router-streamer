@@ -15,4 +15,6 @@
 - Apache Camel
 - Minio (aws s3 compatibile support)
 - Kafka
+- Kubernetes
+- Jkube
 
