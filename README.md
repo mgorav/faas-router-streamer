@@ -1,7 +1,7 @@
 # Open FaaS Router and RSocket Streamer
 
 
-> "Batch kills speed thrills"
+> "Batch kills stream thrills"
 
 Kafka based OpenFaas function router, which routes the messages to a function, declaratively. It also provides ability
 to stream the messages via RSocket. It also supports client side telemetry. This framework is powered by GraalVM and
@@ -62,7 +62,7 @@ and when it's accomplished.**_
 - Spring Cloud
 - Spring native
 - Apache Camel/CamelK
-- Minio (aws s3 compatibile support)
+- Minio (aws s3 compatibility support)
 - Kafka
 - Kubernetes
 - Jkube
