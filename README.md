@@ -61,7 +61,7 @@ and when it's accomplished.**_
 - OpenFaas
 - Spring Cloud
 - Spring native
-- Apache Camel
+- Apache Camel/CamelK
 - Minio (aws s3 compatibile support)
 - Kafka
 - Kubernetes
