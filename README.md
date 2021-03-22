@@ -67,6 +67,6 @@ and when it's accomplished.**_
 - Kubernetes
 - Jkube
 - RSocket
-- Hazelcast Jet (stream progressing)
+- Hazelcast Jet (stream processing)
 - UI ReactJS
 
