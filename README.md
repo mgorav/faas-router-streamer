@@ -1,5 +1,8 @@
 # Open FaaS Router and RSocket Streamer
 
+
+> "Batch kills speed thrills"
+
 Kafka based OpenFaas function router, which routes the messages to a function, declaratively. It also provides ability
 to stream the messages via RSocket. It also supports client side telemetry. This framework is powered by GraalVM and
 deployable on k8s. The framework completely cloud agnostic and native. Function support is language agnostic.
